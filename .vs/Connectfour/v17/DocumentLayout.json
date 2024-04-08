@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\redde\\source\\repos\\Connectfour\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4ED84ED3-54B1-4643-A6BA-CE912D1AD924}|Connectfour\\Connectfour.csproj|c:\\users\\redde\\source\\repos\\connectfour\\connectfour\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4ED84ED3-54B1-4643-A6BA-CE912D1AD924}|Connectfour\\Connectfour.csproj|solutionrelative:connectfour\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ED84ED3-54B1-4643-A6BA-CE912D1AD924}|Connectfour\\Connectfour.csproj|c:\\users\\redde\\source\\repos\\connectfour\\connectfour\\components\\board.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4ED84ED3-54B1-4643-A6BA-CE912D1AD924}|Connectfour\\Connectfour.csproj|solutionrelative:connectfour\\components\\board.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ED84ED3-54B1-4643-A6BA-CE912D1AD924}|Connectfour\\Connectfour.csproj|c:\\users\\redde\\source\\repos\\connectfour\\connectfour\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ED84ED3-54B1-4643-A6BA-CE912D1AD924}|Connectfour\\Connectfour.csproj|solutionrelative:connectfour\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B090526-DE86-4B99-814D-8CB51AEBDD63}|UnitTest\\UnitTest.csproj|c:\\users\\redde\\source\\repos\\connectfour\\unittest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B090526-DE86-4B99-814D-8CB51AEBDD63}|UnitTest\\UnitTest.csproj|solutionrelative:unittest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ED84ED3-54B1-4643-A6BA-CE912D1AD924}|Connectfour\\Connectfour.csproj|c:\\users\\redde\\source\\repos\\connectfour\\connectfour\\components\\board.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4ED84ED3-54B1-4643-A6BA-CE912D1AD924}|Connectfour\\Connectfour.csproj|solutionrelative:connectfour\\components\\board.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ED84ED3-54B1-4643-A6BA-CE912D1AD924}|Connectfour\\Connectfour.csproj|c:\\users\\redde\\source\\repos\\connectfour\\connectfour\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ED84ED3-54B1-4643-A6BA-CE912D1AD924}|Connectfour\\Connectfour.csproj|solutionrelative:connectfour\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\redde\\source\\repos\\Connectfour\\Connectfour\\Program.cs",
+              "RelativeDocumentMoniker": "Connectfour\\Program.cs",
+              "ToolTip": "C:\\Users\\redde\\source\\repos\\Connectfour\\Connectfour\\Program.cs",
+              "RelativeToolTip": "Connectfour\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T08:25:35.183Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameState.cs",
+              "DocumentMoniker": "C:\\Users\\redde\\source\\repos\\Connectfour\\Connectfour\\GameState.cs",
+              "RelativeDocumentMoniker": "Connectfour\\GameState.cs",
+              "ToolTip": "C:\\Users\\redde\\source\\repos\\Connectfour\\Connectfour\\GameState.cs",
+              "RelativeToolTip": "Connectfour\\GameState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T10:22:19.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Board.razor.css",
+              "DocumentMoniker": "C:\\Users\\redde\\source\\repos\\Connectfour\\Connectfour\\Components\\Board.razor.css",
+              "RelativeDocumentMoniker": "Connectfour\\Components\\Board.razor.css",
+              "ToolTip": "C:\\Users\\redde\\source\\repos\\Connectfour\\Connectfour\\Components\\Board.razor.css",
+              "RelativeToolTip": "Connectfour\\Components\\Board.razor.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-02T08:07:59.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\redde\\source\\repos\\Connectfour\\Connectfour\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Connectfour\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\redde\\source\\repos\\Connectfour\\Connectfour\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Connectfour\\Components\\Pages\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T08:07:02.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Board.razor",
+              "DocumentMoniker": "C:\\Users\\redde\\source\\repos\\Connectfour\\Connectfour\\Components\\Board.razor",
+              "RelativeDocumentMoniker": "Connectfour\\Components\\Board.razor",
+              "ToolTip": "C:\\Users\\redde\\source\\repos\\Connectfour\\Connectfour\\Components\\Board.razor",
+              "RelativeToolTip": "Connectfour\\Components\\Board.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T08:06:11.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\redde\\source\\repos\\Connectfour\\UnitTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UnitTest\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\redde\\source\\repos\\Connectfour\\UnitTest\\UnitTest1.cs",
+              "RelativeToolTip": "UnitTest\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T10:17:55.604Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
